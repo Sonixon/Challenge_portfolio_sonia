@@ -1,1 +1,6 @@
-# framework_test
+# **Task 1 - Konfiguracja oprogramowania** 
+## Subtask 1 - Formatowanie pliku README - Dlaczego zdecydowałam się wziąć udział w wyzwaniu Dare IT Challenge?
+*Hej! Nazywam się Sonia Topolewska. Od około roku pracuję nad zdobyciem komptencji niezbędnych do pracy jako tester oprogramowania. Dotychczas ukończyłam Challenge testera manualnego i zdobywałam wiedzę z książek oraz kursów na Udemy. Z uwagi na chęć dalszego rozwoju podjęłam kolejne wyzwanie jakim jest Challenge testowania automatyzującego. Chciałabym się sprawdzić, zaznajomić z najpopularniejszym językiem programowania Python oraz wykorzystać tą wiedzę w przyszłości. Obecnie zdobywam doświadczenie zawodowe na stażu jako tester manualny. Testuję aplikację mobilną i webową obsługującą głowicę drona antysmogowego - temat jest naprawdę fascynujący i z całą pewnością wiele się dzięki tej praktyce uczę. :rocket: :fire: :fire:
+## Subtask 2 - Naprawienie problemu, który wyświetla się na konsoli 
+Błąd udało się naprawić poprzez usunięcie ścieżki do drivera.
+## Subtask 3 - Dodanie kodu do własnego zdalnego repozytorium 
