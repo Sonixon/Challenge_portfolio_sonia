@@ -58,4 +58,4 @@ ________________________________________________________________
 ## Subtask 3 - Dodawanie selektorów do projektu - dodano
 ## Subtask 4 - Dodanie nowego pliku - dodano
 ## Subtask 5 - Dodanie nowego pliku add a match form - dodano
-## Subtask 6 - Merdźowanie branchy - wykonano
+## Subtask 6 - Merdźowanie branchy - wykonano.
