@@ -7,35 +7,3 @@
 ## Subtask 4 - Test na stronie GET ISTQB "Purpurowy"
 *10/14* :muscle:
 
-# **Task 2 - Selektory** 
-## Subtask 1 - Zadanie dodatkowe - Nowy branch - dodano
-## Subtask 2 - Wyszukiwanie selektorów na stronie logowania
-**Remind_password_hyperlink_xpath**
-*<a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary" tabindex="-1">Remind password</a>*
-//*[@id="__next"]/form/div/div[1]/a
-//*[text()="Remind password"]
-//child::div/a lub //child::html/body/div/form/div/div[1]/a
-
-**Sign_in_button_xpath**
-*<button class="MuiButtonBase-root MuiButton-root MuiButton-contained jss5 MuiButton-containedPrimary" tabindex="0" type="submit"><span class="MuiButton-label">Sign in</span><span class="MuiTouchRipple-root"></span></button>*
-//*[@id="__next"]/form/div/div[2]/button/span[1]
-//*[text()="Sign in"]
-//child::html/body/div/form/div/div[2]/buton
-
-**Login_label_xpath**
-*<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated" data-shrink="false" for="login" id="login-label">Login</label>*
-//*[@id="login-label"]
-//*[text()="Login"]
-//child::html/body/div/form/div/div/div/label
-
-**Password_label_xpath**
-*<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled" data-shrink="true" for="password" id="password-label">Password</label>*
-//*[@id="password-label"]
-//*[text()="Password"]
-//child::html/body/div/form/div/div/div[2]/label
-
-**Language_select_xpath**
-*<div class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"><div class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input" tabindex="0" role="button" aria-haspopup="listbox">English</div>*
-//*[@id="__next"]/form/div/div[2]/div
-//child::html/body/div/form/div/div[2]/div/div
-//*[text()="English"]
