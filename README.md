@@ -10,48 +10,35 @@
 # **Task 2 - Selektory** 
 ## Subtask 1 - Zadanie dodatkowe - Nowy branch - dodano
 ## Subtask 2 - Wyszukiwanie selektorów na stronie logowania
-
-:point_right: **Remind_password_hyperlink_xpath**
-
+**Remind_password_hyperlink_xpath**
+*<a class="MuiTypography-root MuiLink-root MuiLink-underlineHover jss4 MuiTypography-colorPrimary" tabindex="-1">Remind password</a>*
 //*[@id="__next"]/form/div/div[1]/a
-
 //*[text()="Remind password"]
-
 //child::div/a lub //child::html/body/div/form/div/div[1]/a
 
-________________________________________________________________
-
-:point_right: **Sign_in_button_xpath**
-
+**Sign_in_button_xpath**
+*<button class="MuiButtonBase-root MuiButton-root MuiButton-contained jss5 MuiButton-containedPrimary" tabindex="0" type="submit"><span class="MuiButton-label">Sign in</span><span class="MuiTouchRipple-root"></span></button>*
 //*[@id="__next"]/form/div/div[2]/button/span[1]
-
 //*[text()="Sign in"]
-
 //child::html/body/div/form/div/div[2]/buton
-________________________________________________________________
 
-:point_right: **Login_label_xpath**
-
+**Login_label_xpath**
+*<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated" data-shrink="false" for="login" id="login-label">Login</label>*
 //*[@id="login-label"]
-
-
+//*[text()="Login"]
 //child::html/body/div/form/div/div/div/label
 
-________________________________________________________________
-:point_right: **Password_label_xpath**
-
+**Password_label_xpath**
+*<label class="MuiFormLabel-root MuiInputLabel-root MuiInputLabel-formControl MuiInputLabel-animated MuiInputLabel-shrink MuiFormLabel-filled" data-shrink="true" for="password" id="password-label">Password</label>*
 //*[@id="password-label"]
-
 //*[text()="Password"]
-
 //child::html/body/div/form/div/div/div[2]/label
-________________________________________________________________
 
-:point_right: **Language_select_xpath**
-
+**Language_select_xpath**
+*<div class="MuiInputBase-root MuiInput-root MuiInput-underline jss6"><div class="MuiSelect-root MuiSelect-select MuiSelect-selectMenu MuiInputBase-input MuiInput-input" tabindex="0" role="button" aria-haspopup="listbox">English</div>*
 //*[@id="__next"]/form/div/div[2]/div
-
 //child::html/body/div/form/div/div[2]/div/div
+<<<<<<< Updated upstream
 
 //*[text()="English"]
 
@@ -59,3 +46,4 @@ ________________________________________________________________
 ## Subtask 4 - Dodanie nowego pliku - dodano
 ## Subtask 5 - Dodanie nowego pliku add a match form - dodano
 ## Subtask 6 - Merdźowanie branchy - wykonano.
+
