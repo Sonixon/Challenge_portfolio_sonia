@@ -6,7 +6,7 @@
 ## Subtask 3 - Dodanie kodu do własnego zdalnego repozytorium 
 ## Subtask 4 - Test na stronie GET ISTQB "Purpurowy"
 *10/14* :muscle:
-
+_________________________________
 # **Task 2 - Selektory** 
 ## Subtask 1 - Zadanie dodatkowe - Nowy branch - dodano
 ## Subtask 2 - Wyszukiwanie selektorów na stronie logowania
@@ -19,7 +19,7 @@
 //*[text()="Remind password"]
 
 //child::div/a lub //child::html/body/div/form/div/div[1]/a
-_________________________________
+
 **Sign_in_button_xpath**
 
 //*[@id="__next"]/form/div/div[2]/button/span[1]
@@ -28,7 +28,7 @@ _________________________________
 
 //child::html/body/div/form/div/div[2]/buton
 
-_________________________________
+
 **Login_label_xpath**
 
 //*[@id="login-label"]
@@ -36,7 +36,7 @@ _________________________________
 //*[text()="Login"]
 
 //child::html/body/div/form/div/div/div/label
-_________________________________
+
 **Password_label_xpath**
 
 //*[@id="password-label"]
@@ -44,7 +44,7 @@ _________________________________
 //*[text()="Password"]
 
 //child::html/body/div/form/div/div/div[2]/label
-_________________________________
+
 **Language_select_xpath**
 
 //*[@id="__next"]/form/div/div[2]/div
@@ -53,7 +53,7 @@ _________________________________
 
 //*[text()="English"]
 
-_________________________________
+
 ## Subtask 3 - Dodawanie selektorów do projektu 
 ## Subtask 4 - Dodanie nowego pliku 
 ## Subtask 5 - Dodanie nowego pliku add a match form 
@@ -66,6 +66,8 @@ _________________________________
 ## Subtask 4 - Powtórzenie
 _________________________________
 # **Task 4 - Zadanie: Refactor, debugger i przypadki testowe** 
-## Subtask 1 - Pisanie przypadków testowych https://docs.google.com/spreadsheets/d/1y1mycpdVuQ2ErluBP5AanVp3WAgGFdhPxjzJ8fQliFU/edit#gid=0
+## Subtask 1 - Pisanie przypadków testowych 
+https://docs.google.com/spreadsheets/d/1y1mycpdVuQ2ErluBP5AanVp3WAgGFdhPxjzJ8fQliFU/edit#gid=0
 ## Subtask 2 - Nowy przypadek testowy
-## Subtask 3 - Dodanie nagrań z uruchomionych testów na dysk google (z powodu błędów w testach nie dodałam nagrań)
+## Subtask 3 - Dodanie nagrań z uruchomionych testów na dysk google 
+(z powodu błędów w testach nie dodałam nagrań)
