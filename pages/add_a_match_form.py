@@ -9,7 +9,7 @@ class add_a_match_form(BasePage):
     Date_input_xpath = "//*[@name='date']"
     Match_at_home_input_xpath = "//*[@name='matchAtHome']"
     Match_out_home_input_xpath = "//*[@name='matchOutHome']"
-    T-schirt_color_input_xpath = "//*[@name='tshirt']"
-    Submit_button_xpath = "//*[@id="__next"]/div[1]/main/div[2]/form/div[3]/button[1]"
-    Clear_button_xpath = "//*[@id="__next"]/div[1]/main/div[2]/form/div[3]/button[2]"
+    Tschirt_color_input_xpath = "//*[@name='tshirt']"
+    Submit_button_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[3]/button[1]"
+    Clear_button_xpath = "//*[@id='__next']/div[1]/main/div[2]/form/div[3]/button[2]"
 pass

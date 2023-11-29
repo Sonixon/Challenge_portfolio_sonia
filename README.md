@@ -54,8 +54,18 @@ _________________________________
 //*[text()="English"]
 
 _________________________________
-## Subtask 3 - Dodawanie selektorów do projektu - dodano
-## Subtask 4 - Dodanie nowego pliku - dodano
-## Subtask 5 - Dodanie nowego pliku add a match form - dodano
-## Subtask 6 - Merdźowanie branchy - wykonano.
-
+## Subtask 3 - Dodawanie selektorów do projektu 
+## Subtask 4 - Dodanie nowego pliku 
+## Subtask 5 - Dodanie nowego pliku add a match form 
+## Subtask 6 - Merdźowanie branchy 
+_________________________________
+# **Task 3 - Zadanie: Pierwszy test automatyczny i asserty**
+# Subtask 1 - Uzupełnienie strony logowania
+## Subtask 2 - Pisanie kodu na podstawie przypadków testowych
+## Subtask 3 - Assert
+## Subtask 4 - Powtórzenie
+_________________________________
+# **Task 4 - Zadanie: Refactor, debugger i przypadki testowe** 
+## Subtask 1 - Pisanie przypadków testowych https://docs.google.com/spreadsheets/d/1y1mycpdVuQ2ErluBP5AanVp3WAgGFdhPxjzJ8fQliFU/edit#gid=0
+## Subtask 2 - Nowy przypadek testowy
+## Subtask 3 - Dodanie nagrań z uruchomionych testów na dysk google (z powodu błędów w testach nie dodałam nagrań)
